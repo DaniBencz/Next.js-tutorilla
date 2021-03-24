@@ -1,0 +1,3 @@
+
+"next export" script deletes /pages folder,...?
+
